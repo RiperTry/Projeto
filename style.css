@@ -1,0 +1,81 @@
+.headingDiv{
+    text-align: center;
+    float:center;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px grey;
+    background-color: grey;
+}
+.copyRightFooter
+{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
+img {
+    width: 130px;
+    height: 130px;
+
+}
+button{
+    width: 90px;
+    height: 40px;
+    text-align: center;
+    text-size-adjust: 20px;
+}
+#img1{
+    width: 235px;
+    height: 235px;
+}
+#img2{
+    width: 235px;
+    height: 235px;
+}
+#img3{
+    width: auto;
+    height: auto;
+}
+#img4{
+    width: auto;
+    height: auto;
+}
+.headingDiv2{
+    text-align: center;
+    float:center;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px grey;
+    background-color: grey;
+}
+.headingDiv3{
+    text-align: center;
+    float:center;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px grey;
+    background-color: grey;
+}
+.headingDiv4{
+    text-align: center;
+    float:center;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px grey;
+    background-color: grey;
+}
+ol{
+    text-align: center;
+    align-items: center;
+}
